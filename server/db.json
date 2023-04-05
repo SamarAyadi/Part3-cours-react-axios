@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "title": "Learn Django",
+      "description": "Learn how to create Django app",
+      "id": 2
+    },
+    {
+      "title": "Learn React",
+      "description": "Learn how to create react app",
+      "id": 3
+    }
+  ]
+}
